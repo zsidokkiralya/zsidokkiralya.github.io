@@ -17,6 +17,6 @@
   </div>
   <footer class="site-footer">
     <span>zsk @ 2026</span>
-    <span>forked from:<a href="https://pearoo.dev" target="_blank" rel="noopener noreferrer">pearoo.dev</a></span>
+    <span>forked from: <a href="https://pearoo.dev" target="_blank" rel="noopener noreferrer">pearoo.dev</a></span>
   </footer>
 </div>

@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-  <title>zsk | rolam</title>
+  <title>zsk | about</title>
   <meta name="description" content={site.about} />
   <link rel="canonical" href={`${site.domain}/about/`} />
 </svelte:head>
@@ -12,6 +12,6 @@
 <Navbar />
 <main class="main inner-page">
   <div class="brand brand-inner" aria-label={site.name}><h1>{site.name}</h1></div>
-  <h2 class="page-subtitle">rolam</h2>
+  <h2 class="page-subtitle">about</h2>
   <p class="bio">{site.about}</p>
 </main>

@@ -11,5 +11,5 @@
 <main class="main inner-page">
   <div class="brand brand-inner" aria-label="zsk"><h1>zsk</h1></div>
   <h2 class="page-subtitle">{page.status}</h2>
-  <p class="bio">ez az oldal nem talalhato :3</p>
+  <p class="bio">This page could not be found :3</p>
 </main>
