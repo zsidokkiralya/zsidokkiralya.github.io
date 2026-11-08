@@ -9,7 +9,7 @@ export type SocialLink = {
 };
 
 export const site = {
-  domain: 'https://zsidokkiralya.github.io',
+  domain: 'https://zskarchive.me',
   name: 'zsk',
   headline: 'sysadmin // sometimes a developer // :3',
   about: 'avid wrongdoer of exactly nothing :3',
